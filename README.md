@@ -7,13 +7,14 @@ Includes **keyboard support** for quick calculations.
 ---
 
 ## 📸 Screenshot
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot]
+<img width="1695" height="907" alt="Screenshot 2025-08-09 100717" src="https://github.com/user-attachments/assets/0afb8652-958e-4863-96ba-e8c5ae15aa6c" />
 
 ---
 
 ## 🚀 Live Demo
 If you deploy this on GitHub Pages, add the link here:
-[View Demo]
+[View Demo]https://aditibs.github.io/calculator/
 
 ---
 
